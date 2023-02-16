@@ -7,5 +7,5 @@
  
 <code><img height="20" alt="nodejs" src="https://go.dev/favicon.ico"></code> 
 <code><img height="20" alt="nodejs" src="https://www.linux.org/favicon.ico"></code>
-<code><img height="20" alt="nodejs" src="https://kubernetes.io/images/wheel.svg"></code>
+<code><img height="20" alt="nodejs" src="https://kubernetes.io/images/favicon.png"></code>
 <code><img height="20" alt="nodejs" src="https://www.docker.com/favicon.ico"></code>
