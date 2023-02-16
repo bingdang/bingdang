@@ -9,3 +9,4 @@
 <code><img height="20" alt="nodejs" src="https://www.linux.org/favicon.ico"></code>
 <code><img height="20" alt="nodejs" src="https://kubernetes.io/images/favicon.png"></code>
 <code><img height="20" alt="nodejs" src="https://www.docker.com/favicon.ico"></code>
+<code><img height="20" alt="nodejs" src="https://www.terraform.io/favicon.ico"></code>
