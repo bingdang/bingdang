@@ -12,3 +12,4 @@
 <code><a href="https://cakepanit.com/tags/Terraform/" title="Terraform"><img height="20" alt="terraform" src="https://www.terraform.io/favicon.ico"></a></code>
 <code><a href="https://cakepanit.com/tags/MySQL/" title="MySQL"><img height="20" alt="mysql" src="https://labs.mysql.com/common/themes/sakila/favicon.ico"></a></code>
 
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=bingdang&theme=github&hide_border=true)](https://cakepanit.com/)
