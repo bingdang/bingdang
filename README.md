@@ -42,9 +42,14 @@
     <a href="https://cakepanit.com/tags/SHELL/" title="Bash">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35" />
     </a>
+    <a href="https://cakepanit.com/tags/Ansible/" title="Ansible">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain.svg" width="35" />
+    </a>
     <a href="https://cakepanit.com/tags/Nginx/" title="Nginx">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="35" />
     </a>
-    
+    <a href="https://cakepanit.com/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" title="raspberrypi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="35" />
+    </a>
 </p>
 
