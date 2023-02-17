@@ -51,5 +51,8 @@
     <a href="https://cakepanit.com/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/" title="raspberrypi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="35" />
     </a>
+    <a href="https://cakepanit.com/tags/CI-CD/" title="CICD">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="35" />
+    </a>
 </p>
 
