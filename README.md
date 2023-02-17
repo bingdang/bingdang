@@ -30,7 +30,7 @@
     <a href="https://cakepanit.com/tags/MySQL/" title="MySQL">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
     </a>
-    <a href="https://cakepanit.com/tags/Redis/">
+    <a href="https://cakepanit.com/tags/Redis/" title="Redis">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35" />
     </a>
     <a href="https://cakepanit.com/tags/Terraform/" title="Terraform">
