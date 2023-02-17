@@ -33,6 +33,9 @@
     <a href="https://cakepanit.com/tags/Redis/" title="Redis">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35" />
     </a>
+    <a href="https://cakepanit.com/tags/MongoDB/" title="MongoDB">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" />
+    </a>
     <a href="https://cakepanit.com/tags/Terraform/" title="Terraform">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="35" />
     </a>
