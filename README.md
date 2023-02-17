@@ -14,19 +14,19 @@
 <code><a href="https://cakepanit.com/tags/MySQL/" title="MySQL"><img height="20" alt="mysql" src="https://labs.mysql.com/common/themes/sakila/favicon.ico"></a></code>
 
 <p float="left">
-    <a href="https://go.dev/" title="Golang">
+    <a href="https://cakepanit.com/tags/Golang/" title="Golang">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35" />
     </a>
-    <a href="https://www.linux.org/" title="Linux">
+    <a href="https://cakepanit.com/tags/OPS/" title="Linux">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
     </a>
-    <a href="https://www.docker.com/" title="Docker">
+    <a href="https://cakepanit.com/tags/Docker/" title="Docker">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
     </a>
-    <a href="https://kubernetes.io/" title="Kubernetes">
+    <a href="https://cakepanit.com/tags/Kubernetes/" title="Kubernetes">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" />
     </a>
-    <a href="https://www.mysql.com/" title="MySQL">
+    <a href="https://cakepanit.com/tags/MySQL/" title="MySQL">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
     </a>
 </p>
