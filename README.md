@@ -39,5 +39,9 @@
     <a href="https://cakepanit.com/tags/Terraform/" title="Terraform">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="35" />
     </a>
+    <a href="https://cakepanit.com/tags/Nginx/" title="Terraform">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="35" />
+    </a>
+    
 </p>
 
