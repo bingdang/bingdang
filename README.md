@@ -52,4 +52,7 @@
     </a>
 </p>
 <hr>
-<embed type="text/x-scriptlet" src="https://juejin.cn/](https://cybermap.kaspersky.com/cn/widget/dynamic/dark" width="640" height="480">
+<embed type="text/x-scriptlet" src="https://cybermap.kaspersky.com/cn/widget/dynamic/dark" width="640" height="480">
+
+<object class="inline-page" type="text/x-scriptlet" data="https://juejin.cn/" />
+
