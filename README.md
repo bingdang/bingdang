@@ -52,4 +52,4 @@
     </a>
 </p>
 <hr>
-<iframe width="900" height="655" src="https://cybermap.kaspersky.com/cn/widget/dynamic/dark" frameborder="0">
+<div align=center><iframe width="900" height="655" src="https://cybermap.kaspersky.com/cn/widget/dynamic/dark" frameborder="0"></div>
